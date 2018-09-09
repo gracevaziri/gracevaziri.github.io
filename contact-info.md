@@ -3,6 +3,7 @@ title: Contact Info
 layout: default
 ---
 Feel free to contact me at <grace.vaziri@uconn.edu>.
+
 Postal address:
 
     Grace Vaziri
