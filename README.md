@@ -1,5 +1,5 @@
 ![Image of Grace Vaziri](images/headshot.png)
 ## About Me
 I am an eco-immunologist. I focus on asking questions about drivers of heterogeneity in host immunity in nature. To do this, my work has relied on animal-level empirical data, including statistical modeling of avian fever and activity levels, nest temperatures, and avian and equine microbiomes.  My PhD research was motivated by the fact that climate change will disproportionately impact temperate-zone winters, and the knowledge that temperature and immune function are indelibly linked in ectotherms. Specifically, my dissertation research centered on relating energy storage phenotypes to gene expression profiles across a species’ geographic range. To this end, I worked with wood frogs—widespread, cold-adapted amphibians—which likely engage in ecoimmunological tradeoffs during the cold season. I investigate these questions using gene expression (RNAseq and TagSeq), microbiome (16S), and physiological data.
-[My CV](PDFs/20250120_GV_CV.pdf)
+[My CV](PDFs/Grace_J_Vaziri_CV_20250120.pdf)
 
